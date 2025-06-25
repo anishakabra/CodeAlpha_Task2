@@ -1,0 +1,4 @@
+--- Investment Summary ---
+TSLA (10 shares) = $2500
+
+Total Investment: $2500
